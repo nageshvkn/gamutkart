@@ -32,9 +32,10 @@
 
 		<div id="tabs">
 			<ul>
-				<li><a href="#tabs-1">Fashionista</a></li>
+			<li><a href="#tabs-1">Fashionista</a></li>
 				<li><a href="#tabs-2">Electronics</a></li>
 				<li><a href="#tabs-3">Groceries</a></li>
+				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
 				<p>Jenkins is a powerful application that allows continuous
@@ -98,6 +99,10 @@
 					course chef and puppet scores. As long as one is having 3 digits in
 					the number of servers, ansible looks to be ok and beyond that one
 					has to choose Chef or Puppet.</p>
+			</div>
+			<div id="tabs-4">
+				<p>Motorola</p>
+				<p>Apple</p>
 			</div>
 		</div>
 
