@@ -1,2 +1,0 @@
-# gamutkart ecomerce application
-# Remove
