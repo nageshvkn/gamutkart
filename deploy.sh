@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#one
 TOMCAT_HOST=192.168.1.6
 TOMCAT_USER=gamut-idc-node1
 TOMCAT_PWD=gamut
