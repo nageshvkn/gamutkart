@@ -1,7 +1,6 @@
 #!/bin/bash
-#one
 
-TOMCAT_HOST=192.168.1.7
+TOMCAT_HOST=192.168.1.2
 TOMCAT_USER=gamut-idc-node1
 TOMCAT_PWD=gamut
 TOMCAT_HOME=/home/gamut-idc-node1/Distros/apache-tomcat-8.5.11
